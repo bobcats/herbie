@@ -1,0 +1,22 @@
+{
+  "name": "herbie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobcats/herbie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobcats/herbie/issues"
+  },
+  "homepage": "https://github.com/bobcats/herbie#readme",
+  "dependencies": {
+    "elm": "^2.0.0"
+  }
+}
